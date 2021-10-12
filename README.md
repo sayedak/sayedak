@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayedak
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Web Projects
+- 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me i.sayedakram@gmail.com
 
 <!---
