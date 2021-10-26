@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sayedak
-- 👀 I’m interested in Web Development
+# Hi! I’m Sayed Akram
+- 👀 I’m learning Web Development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Web Dev Projects
-- 📫 How to reach me i.sayedakram@gmail.com
+- 📫 How to reach me: i.sayedakram@gmail.com
 
 <!---
 sayedak/sayedak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
